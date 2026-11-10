@@ -21,9 +21,9 @@
 
 Графики: `plots/mae_by_model.png` (сравнение моделей), `plots/pred_vs_actual.png` (предсказание против цены в объявлении), `plots/feature_importance.png` (важность признаков).
 
-![Сравнение моделей](plots/mae_by_model.png)
-![Предсказание против факта](plots/pred_vs_actual.png)
-![Важность признаков](plots/feature_importance.png)
+   ![Сравнение моделей](mae_by_model.png)
+   ![Предсказание против факта](pred_vs_actual.png)
+   ![Важность признаков](feature_importance.png)
 
 ## Данные и признаки
 
